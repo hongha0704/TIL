@@ -3,3 +3,12 @@ Today I Learned
 
 Reinforcement Learning
 -------------
+
+- 2024.09.02
+    - 강화학습 이론&실습   
+        - 1장 환경설정   
+        윈도우 버전 anaconda, jupyter notebook 설치   
+        RL_scratch 가상환경 설정
+        - 2장 사전 지식   
+        머신러닝, 강화학습 개념   
+        기초 수학: 기초 선형 대수 ~벡터연산까지   
