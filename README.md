@@ -124,3 +124,11 @@ Python Study
 - 2024.09.14   
     - 스타트업 파이썬   
     Chapter13.함수   
+
+
+AI Programming
+-------------
+
+- 2024.09.17   
+    - Python
+    numpy, pandas
