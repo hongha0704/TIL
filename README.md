@@ -130,5 +130,16 @@ AI Programming
 -------------
 
 - 2024.09.17   
-    - Python
-    numpy, pandas
+    - Python   
+    numpy, pandas   
+
+
+Engineering Mathematics   
+-------------
+
+- 2024.09.19   
+    - 7장 푸리에 해석학   
+    7.1 직교함수 ~ 7.3 스튀름-리우빌 이론   
+- 2024.09.20   
+    - 7장 푸리에 해석학   
+    7.4 베셀과 르장드르 급수   
