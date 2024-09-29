@@ -10,4 +10,8 @@ Computer Vision
 
 - 2024.09.24   
     - Homework1   
-    Color Transform   
+    Color Transform
+
+- 2024.09.29   
+    - Homework2   
+    Contrast Transform   
