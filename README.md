@@ -165,3 +165,10 @@ Computer Vision
 - 2024.09.30   
     - Homework3   
     Morphology, labeling   
+
+
+Control System Design
+-------------
+
+-2024.10.02   
+    - Chapter1 Sysyem Identification ~ Chapter2 Linear Algebra   
