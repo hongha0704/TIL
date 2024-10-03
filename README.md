@@ -170,5 +170,5 @@ Computer Vision
 Control System Design
 -------------
 
--2024.10.02   
+- 2024.10.02   
     - Chapter1 Sysyem Identification ~ Chapter2 Linear Algebra   
