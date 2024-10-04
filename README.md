@@ -149,6 +149,9 @@ Engineering Mathematics
 - 2024.09.28   
     - 7장 푸리에 해석학   
     7.1 ~ 7.4 연습문제   
+- 2024.10.3   
+    - 7장 푸리에 해석학 복습   
+    - 8장 편미분 방정식 예습   
 
 
 Computer Vision
@@ -157,11 +160,9 @@ Computer Vision
 - 2024.09.24   
     - Homework1   
     Color Transform   
-
 - 2024.09.29   
     - Homework2   
     Contrast Transform   
-
 - 2024.09.30   
     - Homework3   
     Morphology, labeling   
