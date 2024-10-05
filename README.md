@@ -110,6 +110,9 @@ Reinforcement Learning
             샘플을 모으는 각 에이전트인 액터러너가 글로벌신경망을 업데이트하고, 자신을 글로벌신경망으로 업데이트.   
             여러개의 액터러너가 이 과정을 비동기적(Asynchronous)으로 진행하므로 A3C   
             파이썬에서 멀티쓰레딩을 사용하여 여러 에이전트를 사용   
+- 2024.10.04   
+    - University Lecture   
+        - Chapter01.Mathematical Preliminaries   
 
 
 Python Study
