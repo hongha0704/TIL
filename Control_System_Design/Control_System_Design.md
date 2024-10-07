@@ -7,5 +7,7 @@ Control System Design
     - Chapter1 Sysyem Identification ~ Chapter2 Linear Algebra   
 - 2024.10.06   
     - Quiz1 Study   
+        - Chapter1 Sysyem Identification ~ Chapter2 Linear Algebra   
 - 2024.10.07   
     - Quiz1 Study   
+        - Chapter1 Sysyem Identification ~ Chapter2 Linear Algebra   
