@@ -6,6 +6,6 @@ Control System Design
 - 2024.10.02   
     - Chapter1 Sysyem Identification ~ Chapter2 Linear Algebra   
 - 2024.10.06   
-    - Quiz1 준비   
+    - Quiz1 Study   
 - 2024.10.07   
-    - Quiz1 준비   
+    - Quiz1 Study   
