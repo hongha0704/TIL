@@ -113,7 +113,10 @@ Reinforcement Learning
 - 2024.10.04   
     - University Lecture   
         - Chapter01.Mathematical Preliminaries   
-
+- 2024.10.08   
+    - University Lecture   
+        - Quiz1 Study   
+            - Chapter01.Mathematical Preliminaries   
 
 Python Study
 -------------
