@@ -5,3 +5,6 @@
 -------------
 - 2024.10.04   
     - Chapter01.Mathematical Preliminaries   
+- 2024.10.08   
+    - Quiz1 Study   
+        - Chapter01.Mathematical Preliminaries   
