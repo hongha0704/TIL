@@ -8,3 +8,6 @@
 - 2024.10.08   
     - Quiz1 Study   
         - Chapter01.Mathematical Preliminaries   
+- 2024.10.09   
+    - Quiz1 Study   
+        - Chapter01.Mathematical Preliminaries ~ Chapter02.Markov Decision Process and Bellman Equations   
