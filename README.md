@@ -117,6 +117,10 @@ Reinforcement Learning
     - University Lecture   
         - Quiz1 Study   
             - Chapter01.Mathematical Preliminaries   
+- 2024.10.09   
+    - University Lecture   
+        - Quiz1 Study   
+            - Chapter01.Mathematical Preliminaries ~ Chapter02.Markov Decision Process and Bellman Equations   
 
 Python Study
 -------------
