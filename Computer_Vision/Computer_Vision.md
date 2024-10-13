@@ -19,3 +19,7 @@ Computer Vision
 - 2024.09.30   
     - Homework3   
     Morphology, labeling   
+
+- 2024.10.13   
+    - Computer Vision Study   
+        - 03.Camera Geometry ~ 12.Image Subsampling   
