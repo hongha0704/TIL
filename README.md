@@ -218,3 +218,5 @@ Machine Learning
     - Chapter02.Nunpy/Pandas ~ Chapter03.Scikit-learn   
 - 2024.10.15   
     - Chapter04.Evaluation ~ Chapter05.Classification   
+    - Homework1   
+    Decision Tree   
