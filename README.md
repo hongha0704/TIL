@@ -209,3 +209,12 @@ Control System Design
 - 2024.10.07   
     - Quiz1 Study   
         - Chapter1 Sysyem Identification ~ Chapter2 Linear Algebra   
+
+
+Machine Learning
+-------------
+
+- 2024.10.14   
+    - Chapter02.Nunpy/Pandas ~ Chapter03.Scikit-learn   
+- 2024.10.15   
+    - Chapter04.Evaluation ~ Chapter05.Classification   
