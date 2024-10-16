@@ -29,3 +29,7 @@ Computer Vision
 - 2024.10.14   
     - Homework4   
     Morphology   
+
+- 2024.10.15   
+     - Computer Vision Study   
+    10.Histogram Transform ~ 13.Edge Extraction   
