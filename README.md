@@ -199,6 +199,9 @@ Computer Vision
 - 2024.10.15   
      - Computer Vision Study   
     10.Histogram Transform ~ 13.Edge Extraction   
+- 2024.10.16   
+    - Homework5   
+    Histogram Transform   
 
 Control System Design
 -------------
