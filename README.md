@@ -189,7 +189,7 @@ Computer Vision
     - Homework3   
     Morphology, labeling   
 - 2024.10.13   
-    - Computer Vision Study   
+    - Study   
     03.Camera Geometry ~ 12.Image Subsampling   
     - Homework4   
     Morphology   
@@ -197,7 +197,7 @@ Computer Vision
     - Homework4   
     Morphology   
 - 2024.10.15   
-     - Computer Vision Study   
+     - Study   
     10.Histogram Transform ~ 13.Edge Extraction   
 - 2024.10.16   
     - Homework5   
@@ -207,7 +207,7 @@ Control System Design
 -------------
 
 - 2024.10.02   
-    - Control System Design study   
+    - study   
     Chapter1 Sysyem Identification ~ Chapter2 Linear Algebra   
 - 2024.10.06   
     - Quiz1 Study   
@@ -216,20 +216,20 @@ Control System Design
     - Quiz1 Study   
     Chapter1 Sysyem Identification ~ Chapter2 Linear Algebra   
 - 2024.10.16   
-    - Control System Design study   
+    - study   
     Chapter2 Linear Algebra   
 - 2024.10.17   
-    - Control System Design study   
+    - study   
     Chapter3 State Space Design   
 
 Machine Learning
 -------------
 
 - 2024.10.14   
-    - Machine Learning Study   
+    - Study   
     Chapter02.Nunpy/Pandas ~ Chapter03.Scikit-learn   
 - 2024.10.15   
-    - Machine Learning Study   
+    - Study   
     Chapter04.Evaluation ~ Chapter05.Classification   
     - Homework1   
     Decision Tree   
