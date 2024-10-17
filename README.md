@@ -207,21 +207,29 @@ Control System Design
 -------------
 
 - 2024.10.02   
-    - Chapter1 Sysyem Identification ~ Chapter2 Linear Algebra   
+    - Control System Design study   
+    Chapter1 Sysyem Identification ~ Chapter2 Linear Algebra   
 - 2024.10.06   
     - Quiz1 Study   
-        - Chapter1 Sysyem Identification ~ Chapter2 Linear Algebra   
+    Chapter1 Sysyem Identification ~ Chapter2 Linear Algebra   
 - 2024.10.07   
     - Quiz1 Study   
-        - Chapter1 Sysyem Identification ~ Chapter2 Linear Algebra   
-
+    Chapter1 Sysyem Identification ~ Chapter2 Linear Algebra   
+- 2024.10.16   
+    - Control System Design study   
+    Chapter2 Linear Algebra   
+- 2024.10.17   
+    - Control System Design study   
+    Chapter3 State Space Design   
 
 Machine Learning
 -------------
 
 - 2024.10.14   
-    - Chapter02.Nunpy/Pandas ~ Chapter03.Scikit-learn   
+    - Machine Learning Study   
+    Chapter02.Nunpy/Pandas ~ Chapter03.Scikit-learn   
 - 2024.10.15   
-    - Chapter04.Evaluation ~ Chapter05.Classification   
+    - Machine Learning Study   
+    Chapter04.Evaluation ~ Chapter05.Classification   
     - Homework1   
     Decision Tree   
