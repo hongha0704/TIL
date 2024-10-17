@@ -21,7 +21,7 @@ Computer Vision
     Morphology, labeling   
 
 - 2024.10.13   
-    - Computer Vision Study   
+    - Study   
     03.Camera Geometry ~ 12.Image Subsampling   
     - Homework4   
     Morphology   
@@ -31,7 +31,7 @@ Computer Vision
     Morphology   
 
 - 2024.10.15   
-     - Computer Vision Study   
+     - Study   
     10.Histogram Transform ~ 13.Edge Extraction   
 
 - 2024.10.16   
