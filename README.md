@@ -176,6 +176,8 @@ Engineering Mathematics
         - 8장 편미분 방정식   
 - 2024.10.17   
     - 9장 적분 변환 방법 예습   
+- 2024.10.18   
+    - 9장 적분 변환 방법 복습   
 
 
 Computer Vision
