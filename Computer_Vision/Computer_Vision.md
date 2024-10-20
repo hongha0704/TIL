@@ -45,3 +45,7 @@ Computer Vision
 - 2024.10.19   
      - Study   
     04.Color Transform ~ 06.Otsu's Algorithm   
+
+- 2024.10.20   
+     - Study   
+    07.Labeling, Morphology ~ 14.Canny Operator   
