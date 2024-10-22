@@ -223,6 +223,9 @@ Computer Vision
 - 2024.10.20   
      - Study   
     07.Labeling, Morphology ~ 14.Canny Operator   
+- 2024.10.22   
+     - Study   
+    03.Camera Geometry ~ 14.Canny Operator   
 
 Control System Design
 -------------
