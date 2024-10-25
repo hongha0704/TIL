@@ -18,3 +18,6 @@ Control System Design
 - 2024.10.17   
     - study   
     Chapter3 State Space Design   
+- 2024.10.25   
+    - study   
+    Chapter3 State Space Design   
