@@ -254,6 +254,9 @@ Control System Design
 - 2024.10.26   
     - study   
     Chapter1 Sysyem Identification ~ Chapter3 State Space Design   
+- 2024.10.27   
+    - study   
+    Chapter3 State Space Design   
 
 Machine Learning
 -------------
