@@ -30,3 +30,6 @@ Control System Design
 - 2024.10.28   
     - study   
     Chapter1 Sysyem Identification ~ Chapter3 State Space Design   
+- 2024.10.29   
+    - study   
+    Chapter1 Sysyem Identification ~ Chapter3 State Space Design   
