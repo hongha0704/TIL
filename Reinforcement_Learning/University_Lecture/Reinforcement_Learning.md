@@ -14,3 +14,6 @@
 - 2024.10.30   
     - Study   
         - Chapter02.Markov Decision Process and Bellman Equations ~ Chapter03.Dynamic Programming   
+- 2024.10.31   
+    - Study   
+        - Chapter01.Mathematical Preliminaries ~ Chapter03.Dynamic Programming   
