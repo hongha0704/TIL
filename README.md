@@ -125,6 +125,10 @@ Reinforcement Learning
     - University Lecture   
         - Study   
             - Chapter02.Markov Decision Process and Bellman Equations ~ Chapter03.Dynamic Programming   
+- 2024.10.31   
+    - University Lecture   
+        - Study   
+            - Chapter01.Mathematical Preliminaries ~ Chapter03.Dynamic Programming   
 
 Python Study
 -------------
