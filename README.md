@@ -285,3 +285,7 @@ Machine Learning
     Chapter04.Evaluation ~ Chapter05.Classification   
     - Homework1   
     Decision Tree   
+- 2024.11.02   
+    - Study   
+        - 파이썬 머신러닝 완벽 가이드   
+        Chpater01.파이썬 기반의 머신러닝과 생태계 이해   
