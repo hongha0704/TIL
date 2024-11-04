@@ -53,3 +53,8 @@ Computer Vision
 - 2024.10.22   
      - Study   
     03.Camera Geometry ~ 14.Canny Operator   
+
+- 2024.11.4   
+     - Study   
+        - 컴퓨터비전   
+        Chapter02.영상처리   

@@ -18,3 +18,7 @@ Machine Learning
 - 2024.11.3   
     - Homework2   
     차원 축소   
+- 2024.11.04   
+    - Study   
+        - 파이썬 머신러닝 완벽 가이드   
+        Chpater02.사이킷런으로 시작하는 머신러닝   
