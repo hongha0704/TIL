@@ -239,6 +239,10 @@ Computer Vision
 - 2024.10.22   
      - Study   
     03.Camera Geometry ~ 14.Canny Operator   
+- 2024.11.4   
+     - Study   
+        - 컴퓨터비전   
+        Chapter02.영상처리   
 
 Control System Design
 -------------
@@ -292,3 +296,7 @@ Machine Learning
 - 2024.11.3   
     - Homework2   
     차원 축소   
+- 2024.11.04   
+    - Study   
+        - 파이썬 머신러닝 완벽 가이드   
+        Chpater02.사이킷런으로 시작하는 머신러닝   
