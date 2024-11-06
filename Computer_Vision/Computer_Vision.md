@@ -58,3 +58,7 @@ Computer Vision
      - Study   
         - 컴퓨터비전   
         Chapter02.영상처리   
+
+- 2024.11.5   
+     - Study   
+    15.Corner Detection ~ 17.Generalized Hough Transform   
