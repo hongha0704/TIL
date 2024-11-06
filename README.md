@@ -200,6 +200,8 @@ Engineering Mathematics
     - 7장 푸리에 해석학 ~ 9장 적분 변환 방법 복습   
 - 2024.11.1   
     - 10장 복소수와 복소 해석 함수   
+- 2024.11.6   
+    - 10장 복소수와 복소 해석 함수   
 
 Computer Vision
 -------------
@@ -243,6 +245,9 @@ Computer Vision
      - Study   
         - 컴퓨터비전   
         Chapter02.영상처리   
+- 2024.11.5   
+     - Study   
+    15.Corner Detection ~ 17.Generalized Hough Transform   
 
 Control System Design
 -------------
