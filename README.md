@@ -321,3 +321,7 @@ Machine Learning
     - Study   
         - 파이썬 머신러닝 완벽 가이드   
         Chpater04.분류   
+- 2024.11.12   
+    - Study   
+        - 파이썬 머신러닝 완벽 가이드   
+        Chpater04.분류   
