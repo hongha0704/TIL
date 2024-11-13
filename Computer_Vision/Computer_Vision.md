@@ -62,3 +62,6 @@ Computer Vision
 - 2024.11.5   
      - Study   
     15.Corner Detection ~ 17.Generalized Hough Transform   
+
+- 2024.11.13.  
+    - 회의
