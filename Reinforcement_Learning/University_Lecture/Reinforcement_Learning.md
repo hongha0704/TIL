@@ -17,3 +17,6 @@
 - 2024.10.31   
     - Study   
         - Chapter01.Mathematical Preliminaries ~ Chapter03.Dynamic Programming   
+- 2024.11.16   
+    - University Lecture   
+        - HW1   

@@ -129,6 +129,9 @@ Reinforcement Learning
     - University Lecture   
         - Study   
             - Chapter01.Mathematical Preliminaries ~ Chapter03.Dynamic Programming   
+- 2024.11.16   
+    - University Lecture   
+        - HW1   
 
 Python Study
 -------------
@@ -156,6 +159,9 @@ AI Programming
 - 2024.10.21   
     - Study   
     Python Lecture01.Variable and Operator ~ DL Lecture08.Optimization   
+- 2024.11.17   
+    - Study   
+    DL_Lecture1_ML_&_Linear_Algebra ~ DL_Lecture6_Model_Selection   
 
 Engineering Mathematics   
 -------------
