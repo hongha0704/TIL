@@ -20,3 +20,7 @@
 - 2024.11.16   
     - University Lecture   
         - HW1   
+- 2024.11.19   
+    - University Lecture   
+        - Study   
+            - Chapter04.Model Free Prediction ~ Chapter05.Model Free Control   
