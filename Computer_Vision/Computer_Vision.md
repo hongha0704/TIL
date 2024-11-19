@@ -65,3 +65,7 @@ Computer Vision
 
 - 2024.11.13.  
     - 회의
+
+- 2024.11.20   
+     - Study   
+    15.Corner Detection ~ 19.SIFT Description   

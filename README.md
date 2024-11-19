@@ -265,6 +265,9 @@ Computer Vision
 - 2024.11.5   
      - Study   
     15.Corner Detection ~ 17.Generalized Hough Transform   
+- 2024.11.20   
+     - Study   
+    15.Corner Detection ~ 19.SIFT Description   
 
 Control System Design
 -------------
