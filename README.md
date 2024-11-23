@@ -170,6 +170,11 @@ AI Programming
     - Study   
     모두의 딥러닝: 1장 ~ 6장   
     DL_Lecture1_ML_&_Linear_Algebra ~ DL_Lecture4_Logistic_Regression   
+- 2024.11.23   
+    - Study   
+    모두의 딥러닝: 7장 ~ 16장   
+    DL_Lecture5_Classification ~ DL_Lecture11_CNN_Implementation   
+
 
 Engineering Mathematics   
 -------------
