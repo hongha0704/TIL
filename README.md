@@ -283,6 +283,9 @@ Computer Vision
 - 2024.10.22   
     - Homework6   
     Hough Transform   
+- 2024.10.25   
+    - Homework7   
+    Generalized Hough Transform   
 
 
 Control System Design
