@@ -85,3 +85,6 @@ Computer Vision
 - 2024.11.26   
     - Homework7   
     Generalized Hough Transform   
+    - Study   
+        - 컴퓨터비전   
+        Chapter03.에지 검출 ~ Chapter04.지역 특징 검출   
