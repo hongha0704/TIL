@@ -277,13 +277,16 @@ Computer Vision
 - 2024.11.20   
      - Study   
     15.Corner Detection ~ 19.SIFT Description   
-- 2024.10.21   
+- 2024.11.21   
     - Homework6   
     Hough Transform   
-- 2024.10.22   
+- 2024.11.22   
     - Homework6   
     Hough Transform   
-- 2024.10.25   
+- 2024.11.25   
+    - Homework7   
+    Generalized Hough Transform   
+- 2024.11.26   
     - Homework7   
     Generalized Hough Transform   
 
