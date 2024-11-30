@@ -322,31 +322,34 @@ Control System Design
     Chapter2 Linear Algebra   
 - 2024.10.17   
     - study   
-    Chapter3 State Space Design   
+    Chapter7 State Space Design   
 - 2024.10.25   
     - study   
-    Chapter3 State Space Design   
+    Chapter7 State Space Design   
 - 2024.10.26   
     - study   
-    Chapter1 Sysyem Identification ~ Chapter3 State Space Design   
+    Chapter1 Sysyem Identification ~ Chapter7 State Space Design   
 - 2024.10.27   
     - study   
-    Chapter3 State Space Design   
+    Chapter7 State Space Design   
 - 2024.10.28   
     - study   
-    Chapter1 Sysyem Identification ~ Chapter3 State Space Design   
+    Chapter1 Sysyem Identification ~ Chapter7 State Space Design   
 - 2024.10.29   
     - study   
-    Chapter1 Sysyem Identification ~ Chapter3 State Space Design   
+    Chapter1 Sysyem Identification ~ Chapter7 State Space Design   
 - 2024.11.18   
     - study   
-    Chapter3 State Space Design   
+    Chapter7 State Space Design   
 - 2024.11.21   
     - study   
-    Chapter3 State Space Design   
+    Chapter7 State Space Design   
 - 2024.11.28   
     - study   
-    Chapter3 State Space Design   
+    Chapter7 State Space Design   
+- 2024.11.30   
+    - Homework1   
+    Chapter7 State Space Design   
 
 Machine Learning
 -------------
