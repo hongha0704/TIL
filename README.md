@@ -136,6 +136,9 @@ Reinforcement Learning
     - University Lecture   
         - Study   
             - Chapter04.Model Free Prediction ~ Chapter05.Model Free Control   
+- 2024.11.30   
+    - University Lecture   
+        - HW2   
 
 Python Study
 -------------
