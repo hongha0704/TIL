@@ -177,7 +177,9 @@ AI Programming
     - Study   
     모두의 딥러닝: 7장 ~ 16장   
     DL_Lecture5_Classification ~ DL_Lecture11_CNN_Implementation   
-
+- 2024.12.1   
+    - Study   
+    모두의 딥러닝: 17장 ~ 19장   
 
 Engineering Mathematics   
 -------------
