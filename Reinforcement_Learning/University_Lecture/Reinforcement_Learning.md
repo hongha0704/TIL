@@ -27,3 +27,7 @@
 - 2024.11.30   
     - University Lecture   
         - HW2   
+- 2024.12.3   
+    - University Lecture   
+        - Study   
+            - Chapter07.Value Function Approximation   
