@@ -355,6 +355,9 @@ Control System Design
 - 2024.11.30   
     - Homework1   
     Chapter7 State Space Design   
+- 2024.12.2   
+    - study   
+    Chapter7 State Space Design   
 
 Machine Learning
 -------------
