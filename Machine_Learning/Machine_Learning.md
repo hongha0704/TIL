@@ -46,3 +46,7 @@ Machine Learning
     - Study   
         - 파이썬 머신러닝 완벽 가이드   
         Chpater03.평가   
+- 2024.12.7   
+    - Study   
+        - 파이썬 머신러닝 완벽 가이드   
+        Chpater06.차원 축소   
