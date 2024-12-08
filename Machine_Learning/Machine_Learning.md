@@ -50,3 +50,6 @@ Machine Learning
     - Study   
         - 파이썬 머신러닝 완벽 가이드   
         Chpater06.차원 축소 ~ Chpater07.군집화   
+- 2024.12.8   
+    - Study   
+    Chapter04.Evaluation ~ Chapter10.Clustering   
