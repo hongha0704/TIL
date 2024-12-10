@@ -23,3 +23,6 @@ AI Programming
 - 2024.12.1   
     - Study   
     모두의 딥러닝: 17장 ~ 19장   
+- 2024.11.9   
+    - Study   
+    DL_Lecture1_ML_&_Linear_Algebra ~ DL_Lecture20_Generative_Models3   
