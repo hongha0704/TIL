@@ -187,6 +187,9 @@ AI Programming
 - 2024.11.9   
     - Study   
     DL_Lecture1_ML_&_Linear_Algebra ~ DL_Lecture20_Generative_Models3   
+- 2024.12.11   
+    - Study   
+    DL_Lecture1_ML_&_Linear_Algebra ~ DL_Lecture20_Generative_Models3   
 
 Engineering Mathematics   
 -------------
@@ -249,6 +252,9 @@ Engineering Mathematics
 - 2024.11.30   
     - 과제5   
         - 11장 복소 적분   
+    - 과제6   
+        12장 급수와 유수   
+- 2024.12.11   
     - 과제6   
         12장 급수와 유수   
 
