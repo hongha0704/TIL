@@ -387,6 +387,9 @@ Control System Design
 - 2024.12.14   
     - study   
     Chapter7 State Space Design   
+- 2024.12.15   
+    - study   
+    Chapter7 State Space Design   
 
 Machine Learning
 -------------
