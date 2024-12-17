@@ -60,3 +60,6 @@ Control System Design
 - 2024.12.15   
     - study   
     Chapter7 State Space Design   
+- 2024.12.16   
+    - study   
+    Chapter7 State Space Design   
