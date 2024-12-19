@@ -143,6 +143,12 @@ Reinforcement Learning
     - University Lecture   
         - Study   
             - Chapter07.Value Function Approximation   
+- 2024.12.18   
+    - University Lecture   
+        - Term Project   
+- 2024.12.19   
+    - University Lecture   
+        - Term Project   
 
 Python Study
 -------------
