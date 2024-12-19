@@ -149,6 +149,9 @@ Reinforcement Learning
 - 2024.12.19   
     - University Lecture   
         - Term Project   
+- 2024.12.20   
+    - University Lecture   
+        - Term Project   
 
 Python Study
 -------------
