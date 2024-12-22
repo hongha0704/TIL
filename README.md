@@ -169,6 +169,7 @@ Python Study
 - 2024.09.21   
     - 스타트업 파이썬   
     Chapter14.파일 입출력 ~ Chapter17.클래스와 객체 지향 개념   
+    
 
 
 AI Programming
