@@ -153,7 +153,6 @@ Reinforcement Learning
     - University Lecture   
         - Term Project   
 
-
 Python Study
 -------------
 
