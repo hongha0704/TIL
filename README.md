@@ -462,3 +462,11 @@ Machine Learning
 - 2024.12.8   
     - Study   
     Chapter04.Evaluation ~ Chapter10.Clustering   
+
+Python Programming
+-------------
+
+- 2024.01.06   
+    - 1일차.파이썬 소개 및 환경설정   
+- 2024.01.07   
+    - 2일차.프로그래밍 기초   
