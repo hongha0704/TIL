@@ -530,4 +530,3 @@ Coding Test
 - 2025.01.30   
     - Programmers   
         - Lv.0 9문제   
-        - Lv.1 1문제   
