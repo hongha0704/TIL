@@ -17,3 +17,5 @@ AI
     - 33일차.예측 함수 (Object function) 정의하기   
 - 2025.02.26   
     - 34일차.선형 회귀 (Linear regression)   
+- 2025.02.27   
+    - 35일차.이진 분류 (Binary classification)   
