@@ -556,6 +556,7 @@ AI
     - 35일차.이진 분류 (Binary classification)   
 - 2025.02.28   
     - 36일차.다중 분류 (Multinomial classification)   
+    
 
         
 Coding Test
