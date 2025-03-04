@@ -556,8 +556,8 @@ AI
     - 35일차.이진 분류 (Binary classification)   
 - 2025.02.28   
     - 36일차.다중 분류 (Multinomial classification)   
-    
-
+- 2025.03.04   
+    - 36일차.MNIST data   
 
         
 Coding Test
@@ -610,4 +610,7 @@ Coding Test
     - Programmers   
         - Lv.0 9문제   
         - Lv.1 1문제   
-
+- 2025.03.04   
+    - Programmers   
+        - Lv.0 9문제   
+        - Lv.1 1문제   
