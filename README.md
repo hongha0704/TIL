@@ -557,10 +557,11 @@ AI
 - 2025.02.28   
     - 36일차.다중 분류 (Multinomial classification)   
 - 2025.03.04   
-    - 36일차.MNIST data   
+    - 37일차.MNIST data   
 - 2025.03.05   
-    - 36일차.Convolutional Neural Network (CNN)   
-
+    - 38일차.Convolutional Neural Network (CNN)   
+- 2025.03.06   
+    - 39일차.Parameter tuning   
         
 Coding Test
 -------------
@@ -620,3 +621,6 @@ Coding Test
     - Programmers   
         - Lv.0 9문제   
         - Lv.1 6문제   
+- 2025.03.06   
+    - Programmers   
+        - Lv.0 9문제   
