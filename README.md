@@ -562,6 +562,8 @@ AI
     - 38일차.Convolutional Neural Network (CNN)   
 - 2025.03.06   
     - 39일차.Parameter tuning   
+- 2025.03.07   
+    - 40일차.Pretrained CNN model (AlexNet, GoogLeNet)   
         
 Coding Test
 -------------
@@ -624,3 +626,7 @@ Coding Test
 - 2025.03.06   
     - Programmers   
         - Lv.0 9문제   
+- 2025.03.07   
+    - Programmers   
+        - Lv.0 9문제   
+        - Lv.1 6문제   
