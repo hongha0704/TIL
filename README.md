@@ -564,6 +564,8 @@ AI
     - 39일차.Parameter tuning   
 - 2025.03.07   
     - 40일차.Pretrained CNN model (AlexNet, GoogLeNet)   
+- 2025.03.10   
+    - 41일차.Pretrained CNN model (VGGNet, ResNet)   
         
 Coding Test
 -------------
@@ -627,6 +629,10 @@ Coding Test
     - Programmers   
         - Lv.0 9문제   
 - 2025.03.07   
+    - Programmers   
+        - Lv.0 9문제   
+        - Lv.1 6문제   
+- 2025.03.10   
     - Programmers   
         - Lv.0 9문제   
         - Lv.1 6문제   

@@ -29,4 +29,5 @@ AI
     - 39일차.Parameter tuning   
 - 2025.03.07   
     - 40일차.Pretrained CNN model (AlexNet, GoogLeNet)   
-    
+- 2025.03.10   
+    - 41일차.Pretrained CNN model (VGGNet, ResNet)   
