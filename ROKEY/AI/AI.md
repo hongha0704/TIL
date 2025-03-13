@@ -31,3 +31,9 @@ AI
     - 40일차.Pretrained CNN model (AlexNet, GoogLeNet)   
 - 2025.03.10   
     - 41일차.Pretrained CNN model (VGGNet, ResNet)   
+- 2025.03.11   
+    - 42일차.전이 학습 (Transfer learning)   
+- 2025.03.12   
+    - 43일차.Model from scratch   
+- 2025.03.13   
+    - 44일차.객체 검출 1 (Two stage detector)   
