@@ -572,6 +572,8 @@ AI
     - 43일차.Model from scratch   
 - 2025.03.13   
     - 44일차.객체 검출 1 (Two stage detector)   
+- 2025.03.14   
+    - 45일차.객체 검출 2 (One stage detector)   
         
 Coding Test
 -------------
