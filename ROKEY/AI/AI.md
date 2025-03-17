@@ -39,4 +39,5 @@ AI
     - 44일차.객체 검출 1 (Two stage detector)   
 - 2025.03.14   
     - 45일차.객체 검출 2 (One stage detector)   
-    
+- 2025.03.17   
+    - 46일차.순환 신경망 (RNN, LSTM, Seq2Seq)   
