@@ -576,6 +576,10 @@ AI
     - 45일차.객체 검출 2 (One stage detector)   
 - 2025.03.17   
     - 46일차.순환 신경망 (RNN, LSTM, Seq2Seq)   
+- 2025.03.18   
+    - 47일차.Vision transformer (ViT)   
+- 2025.03.19   
+    - 48일차.OpenCV 를 이용한 컴퓨터 비젼 1   
     
         
 Coding Test
