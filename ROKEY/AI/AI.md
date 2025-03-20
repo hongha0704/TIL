@@ -45,3 +45,5 @@ AI
     - 47일차.Vision transformer (ViT)   
 - 2025.03.19   
     - 48일차.OpenCV 를 이용한 컴퓨터 비젼 1   
+- 2025.03.20   
+    - 49일차.OpenCV 를 이용한 컴퓨터 비젼 2   
