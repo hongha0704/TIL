@@ -596,7 +596,7 @@ AI
 - 2025.03.26   
     - 53일차.Deep RNN   
     - 복습   
-        - 07.선형 회귀 (Linear regression) ~   
+        - 07.선형 회귀 (Linear regression) ~ 10.MNIST data   
         
 Coding Test
 -------------
