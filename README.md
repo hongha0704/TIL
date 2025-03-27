@@ -597,6 +597,10 @@ AI
     - 53일차.Deep RNN   
     - 복습   
         - 07.선형 회귀 (Linear regression) ~ 10.MNIST data   
+- 2025.03.27   
+    - 54일차.Neural style transfer   
+    - 복습   
+        - 11.Convolutional Neural Network (CNN) ~ 13.Pretrained CNN model (AlexNet, GoogLeNet)   
         
 Coding Test
 -------------
