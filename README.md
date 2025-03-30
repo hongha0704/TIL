@@ -608,7 +608,10 @@ AI
 - 2025.03.29   
     - 복습   
         - 16.Model from scratch ~ 20.Vision transformer (ViT)   
-        
+- 2025.03.30   
+    - 복습   
+        - 01.OpenCV를 이용한 컴퓨터 비젼 1 ~ 07.Neural style transfer   
+                
 Coding Test
 -------------
 
