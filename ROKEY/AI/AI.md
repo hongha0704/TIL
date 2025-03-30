@@ -66,3 +66,10 @@ AI
     - 54일차.Neural style transfer   
     - 복습   
         - 11.Convolutional Neural Network (CNN) ~ 13.Pretrained CNN model (AlexNet, GoogLeNet)   
+- 2025.03.28   
+    - 55일차.Generative Adversarial Networks (GAN)   
+    - 복습   
+        - 14.Pretrained CNN model (VGGNet, ResNet) ~ 15.전이 학습(Transfer learning)   
+- 2025.03.29   
+    - 복습   
+        - 16.Model from scratch ~ 20.Vision transformer (ViT)   
