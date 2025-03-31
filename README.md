@@ -611,7 +611,10 @@ AI
 - 2025.03.30   
     - 복습   
         - 01.OpenCV를 이용한 컴퓨터 비젼 1 ~ 07.Neural style transfer   
-                
+- 2025.03.31   
+    - 56일차.3D Rendering   
+
+        
 Coding Test
 -------------
 
