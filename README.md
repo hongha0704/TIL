@@ -621,6 +621,8 @@ AI
     - 58일차.의료 영상 분석   
     - 복습   
         - 07.Neural style transfer ~ 10.설명가능한 AI   
+- 2025.04.03   
+    - 59일차.강화 학습1(Reinforcement learning)   
         
 Coding Test
 -------------
