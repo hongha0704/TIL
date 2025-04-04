@@ -88,3 +88,5 @@ AI
         - 07.Neural style transfer ~ 10.설명가능한 AI   
 - 2025.04.03   
     - 59일차.강화 학습1(Reinforcement learning)   
+- 2025.04.04   
+    - 60일차.강화 학습2(Reinforcement learning)   
