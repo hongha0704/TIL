@@ -90,4 +90,6 @@ AI
     - 59일차.강화 학습1(Reinforcement learning)   
 - 2025.04.04   
     - 60일차.강화 학습2(Reinforcement learning)   
-    
+- 2025.04.06   
+    - 복습   
+        - 01.딥러닝 개발환경 구축 파이썬 기초 ~   
