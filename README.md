@@ -627,7 +627,7 @@ AI
     - 60일차.강화 학습2(Reinforcement learning)   
 - 2025.04.06   
     - 복습   
-        - 01.딥러닝 개발환경 구축 파이썬 기초 ~   
+        - 01.딥러닝 개발환경 구축 파이썬 기초 ~ 18.객체 검출 2 (One stage detector)   
         
 Coding Test
 -------------
