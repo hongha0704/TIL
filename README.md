@@ -630,6 +630,12 @@ AI
         - 01.딥러닝 개발환경 구축 파이썬 기초 ~ 18.객체 검출 2 (One stage detector)   
 - 2025.04.07   
     - 61일차.강화 학습3(Reinforcement learning)   
+
+ROS2   
+-------------
+
+- 2025.04.08   
+    - 62일차.ROS2 기초-1차시   
         
 Coding Test
 -------------
