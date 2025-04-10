@@ -344,6 +344,14 @@ Computer Vision
      - Study   
     15.Corner Detection ~ 25.Bird Eye View   
 
+Computer Vision and Deep Learning
+-------------
+
+- 2025.04.09   
+    - 1장 인간의 시각을 흉내 내는 컴퓨터 비전   
+    - 2장 OpenCV로 시작하는 컴퓨터 비전   
+        - 2.1 ~ 2.2   
+        
 
 Control System Design
 -------------
@@ -638,7 +646,8 @@ ROS2
     - 62일차.ROS2 기초-1차시   
 - 2025.04.09   
     - 63일차.ROS2 기초-2차시   
-    
+- 2025.04.10   
+    - 64일차.ROS2 기초-3차시   
         
 Coding Test
 -------------
