@@ -14,4 +14,3 @@ connection.sendall(b'Hello, Client!')
 
 connection.close()
 server_socket.close()
-
