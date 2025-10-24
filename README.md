@@ -785,7 +785,6 @@ Practical Project
 - 2025.07.04   
     - 122일차.지능-1 10차시   
 
-
 Coding Test
 -------------
 
